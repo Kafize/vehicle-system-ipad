@@ -1,0 +1,1 @@
+<view class="wh-100 flex"><u--text vue-id="10efa81a-1" text="副屏已启动" color="#fff" align="center" size="20" bind:__l="__l"></u--text></view>

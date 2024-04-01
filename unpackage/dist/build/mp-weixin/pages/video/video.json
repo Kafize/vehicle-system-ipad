@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-tabbar": "/uni_modules/uview-ui/components/u-tabbar/u-tabbar",
+    "u-tabbar-item": "/uni_modules/uview-ui/components/u-tabbar-item/u-tabbar-item",
+    "video-list": "/pages/video/component/videoList",
+    "playvideo": "/pages/video/component/playvideo"
+  }
+}

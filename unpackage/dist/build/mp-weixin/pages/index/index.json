@@ -1,0 +1,19 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-row": "/uni_modules/uview-ui/components/u-row/u-row",
+    "u-col": "/uni_modules/uview-ui/components/u-col/u-col",
+    "u--text": "/uni_modules/uview-ui/components/u--text/u--text",
+    "launcher": "/component/launcher/launcher",
+    "mscreen": "/component/screen/Mscreen",
+    "weather": "/component/weather/weather",
+    "video-player": "/component/video/video",
+    "analysis": "/component/analysis/analysis",
+    "secondscreen": "/component/screen/secondscreen",
+    "player-video": "/component/video/component/playvideo",
+    "modal": "/component/shutdown/shutdown",
+    "instrument": "/component/instrument/instrument",
+    "camera": "/component/camera/camera"
+  }
+}

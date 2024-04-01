@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/camera/camera",
+    "pages/weather/weather",
+    "pages/video/video",
+    "component/screen/Mscreen",
+    "component/weather/weather",
+    "component/analysis/analysis",
+    "component/shutdown/shutdown",
+    "component/instrument/instrument"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

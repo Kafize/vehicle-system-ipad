@@ -1,0 +1,1 @@
+.list-item{position:relative;background-color:#fff}.weather-card{padding:1rem;background-color:#4690f9;box-shadow:0 0 20px rgba(0,0,0,.5);color:#fff}
